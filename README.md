@@ -14,8 +14,8 @@
 
 Explore meu repositório repleto de exercicíos e projetos que demonstrei minhas habilidades como analista de dados, aprimoradas durante meu curso "Profissão: Analista de Dados v2" na EBAC - Escola Britânica de Artes Criativas e Tecnologia. Da ánalise de dados preditiva a visualizações impressionantes, esse repositório reflete minha paixão por transformar dados em insights valiosos.
 
-* Projetos: Contém projetos realizados ao decorrer do curso.
-* Exercícios: Contém os exercícios realizados durante o curso.
+* Projetos: Nessa pasta contém projetos realizados ao decorrer do curso.
+* Exercícios: Nessa pasta contém os exercícios realizados durante o curso.
 
 ## 🚀 Tecnologias 
 
