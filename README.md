@@ -6,6 +6,7 @@
 
 <div>
  • <a href="#-sobre-o-projeto">Sobre o Projeto</a> </br>
+ • <a href="#-pastas-do-repositório">Pastas do repositório</a> </br>
  • <a href="#-tecnologias">Tecnologias</a> </br>
  • <a href="#-autor">Autor</a> </br>
 </div>
@@ -14,8 +15,12 @@
 
 Explore meu repositório repleto de exercicíos e projetos que demonstrei minhas habilidades como analista de dados, aprimoradas durante meu curso "Profissão: Analista de Dados v2" na EBAC - Escola Britânica de Artes Criativas e Tecnologia. Da ánalise de dados preditiva a visualizações impressionantes, esse repositório reflete minha paixão por transformar dados em insights valiosos.
 
-* Projetos: Nessa pasta contém projetos realizados ao decorrer do curso.
-* Exercícios: Nessa pasta contém os exercícios realizados durante o curso.
+## 📄 Pastas do repositório
+
+O repositório está dividido em duas pastas: 
+
+* **Exercicíos**: Esta pasta contém exercicíos realizados ao decorrer do curso.
+* **Projetos**: Esta pasta contém projetos aonde demonstrei minhas habilidades como analista de dados.
 
 ## 🚀 Tecnologias 
 
@@ -32,5 +37,5 @@ Desenvolvido por **Higor Silva** 👋🏻
 # Entre em contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-silva-4a7341273/)
-
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](higorsilva10322@gmail.com)
 
